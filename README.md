@@ -1,5 +1,5 @@
 # Quiz-App-using-Node-JS-and-Mongo-DB
-TDescription:
+Description:
 This repository hosts the source code for a Quiz Application developed using Node.js and MongoDB. The application offers users an engaging platform to participate in quizzes spanning diverse topics. Leveraging MongoDB, questions are dynamically fetched, ensuring a varied and enriching user experience. Key functionalities include robust user authentication, efficient quiz management, accurate scoring, and comprehensive result tracking.
 
 Features:
